@@ -28,15 +28,15 @@ Je suis un développeur web passionné en reconversion, avec une expérience ant
 Un site pour un cabinet de recrutement, développé en groupe avec React, Node.js, et SQL. Ce projet permet la gestion d'utilisateurs (candidats et entreprises) avec des fonctionnalités CRUD complètes. 
 - **Technos**: React, JavaScript, Node.js, Express, SQL
 
-### [NaosGard](https://github.com/votre-lien-vers-le-projet)
+### [NaosGard](https://github.com/bastien-fournier/V2-Site-Petsitting)
 Un site de service de petsitting développé seul. Les utilisateurs peuvent consulter les avis, créer un compte et ajouter des avis via un système d'authentification.
 - **Technos**: React, Node.js, Express, SQL
 
-### [Holidays Planner](https://github.com/votre-lien-vers-le-projet)
+### [Holidays Planner](https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P2-holidays_planner)
 Projet de groupe permettant d'afficher les jours fériés d'un pays donné pour une année spécifique en utilisant une API publique.
 - **Technos**: React, JavaScript, API
 
-### [Magic 8 Ball](https://github.com/votre-lien-vers-le-projet)
+### [Magic 8 Ball](https://github.com/YohanGH/MagiCode)
 Un jeu simple où l'utilisateur pose une question et reçoit une réponse aléatoire.
 - **Technos**: HTML, CSS, JavaScript
 
