@@ -24,7 +24,7 @@ Je suis un développeur web passionné en reconversion, avec une expérience ant
 
 ## 🌟 Projets réalisés
 
-### [Externatic]([https://github.com/votre-lien-vers-le-projet](https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P3-careercatchers)
+### [Externatic](https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P3-careercatchers)
 Un site pour un cabinet de recrutement, développé en groupe avec React, Node.js, et SQL. Ce projet permet la gestion d'utilisateurs (candidats et entreprises) avec des fonctionnalités CRUD complètes. 
 - **Technos**: React, JavaScript, Node.js, Express, SQL
 
