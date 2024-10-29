@@ -4,6 +4,8 @@ Je suis un développeur web passionné en reconversion, avec une expérience ant
 
 Mon portfolio => https://bastien-fournier-portfolio.netlify.app/
 
+Je travaille actuellement sur une plateforme de réservation de services de pet sitting 🐶😺 => https://github.com/bastien-fournier/V2-Site-Petsitting
+
 ## 🛠️ Compétences techniques
 
 ### Front-End
