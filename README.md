@@ -2,7 +2,7 @@
 
 Je suis un développeur web passionné en reconversion, avec une expérience antérieure dans le commerce et la vente, notamment en tant que chargé de clientèle en assurance et téléphonie. Après avoir suivi une formation intensive en développement web et mobile full-stack à la Wild Code School, je suis désormais à la recherche d'une alternance ou d'opportunités professionnelles en développement web.
 
-Mon portfolio => https://bastien-fournier-portfolio.vercel.app/
+Mon portfolio => https://bastien-fournier-portfolio.netlify.app/
 
 ## 🛠️ Compétences techniques
 
