@@ -28,19 +28,19 @@ Mon portfolio => https://bastien-fournier-portfolio.vercel.app/
 
 ### [Externatic](https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P3-careercatchers)
 Un site pour un cabinet de recrutement, développé en groupe avec React, Node.js, et SQL. Ce projet permet la gestion d'utilisateurs (candidats et entreprises) avec des fonctionnalités CRUD complètes. 
-- **Technos**: React, JavaScript, Node.js, Express, SQL
+- **Technos**: React, JavaScript, Node.js, Express, SQL, Tailwind.
 
 ### [NaosGard](https://github.com/bastien-fournier/V2-Site-Petsitting)
 Un site de service de petsitting développé seul. Les utilisateurs peuvent consulter les avis, créer un compte et ajouter des avis via un système d'authentification.
-- **Technos**: React, Node.js, Express, SQL
+- **Technos**: React, Node.js, Express, SQL, Tailwind.
 
 ### [Holidays Planner](https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P2-holidays_planner)
 Projet de groupe permettant d'afficher les jours fériés d'un pays donné pour une année spécifique en utilisant une API publique.
-- **Technos**: React, JavaScript, API
+- **Technos**: React, JavaScript, API.
 
 ### [Magic 8 Ball](https://github.com/YohanGH/MagiCode)
 Un jeu simple où l'utilisateur pose une question et reçoit une réponse aléatoire.
-- **Technos**: HTML, CSS, JavaScript
+- **Technos**: HTML, CSS, JavaScript.
 
 ## 🔭 Projets en cours
 Je développe actuellement une plateforme full-stack pour mon activité de petsitting, permettant la gestion des réservations avec un agenda intégré. 
